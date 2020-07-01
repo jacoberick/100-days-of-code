@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 30, 2020 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Studied CSS and some design styles. Specifically neumorphic designs. Made a simple app to showcase this style on a button. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I enjoyed taking a peek into the world of web design. I solidified some CSS concepts I was unsure about. Still a lot of work to do. 
+m
+**Link to work:** [Neumorphic Button Demo](https://jacoberick.github.io/neumorphic-demo/)
 
