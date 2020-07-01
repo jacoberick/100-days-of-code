@@ -4,6 +4,6 @@
 **Today's Progress**: Studied CSS and some design styles. Specifically neumorphic designs. Made a simple app to showcase this style on a button. 
 
 **Thoughts:** I enjoyed taking a peek into the world of web design. I solidified some CSS concepts I was unsure about. Still a lot of work to do. 
-m
+
 **Link to work:** [Neumorphic Button Demo](https://jacoberick.github.io/neumorphic-demo/)
 
