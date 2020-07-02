@@ -13,3 +13,10 @@
 **Thoughts:** Calculators are harder to wire up in the back end than I previously thought. I'll finish the UX tomorrow and hopefully get through some of the back end.  
 
 **Link to work:** [React Calculator Repo](https://github.com/jacoberick/react-calculator)
+
+### Day 3: July 2, 2020 
+**Today's Progress**: I finalized the design for the calculator app. 
+
+**Thoughts:** I'm glad I finished the design of the app and I like how it looks. But tomorrow, I'm going to start a more simple day project to get used to React Hooks a bit more, and then return to finishing this app. I want to feel more confident before jumping into more advanced concepts. 
+
+**Link to work:** [React Calculator Repo](https://github.com/jacoberick/react-calculator)
