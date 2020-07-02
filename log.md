@@ -7,3 +7,9 @@
 
 **Link to work:** [Neumorphic Button Demo](https://jacoberick.github.io/neumorphic-demo/)
 
+### Day 2: July 1, 2020 
+**Today's Progress**: I started working on a calculator app using React. I styled it with the Neu styles I practiced yesterday. 
+
+**Thoughts:** Calculators are harder to wire up in the back end than I previously thought. I'll finish the UX tomorrow and hopefully get through some of the back end.  
+
+**Link to work:** [React Calculator Repo](https://github.com/jacoberick/react-calculator)
