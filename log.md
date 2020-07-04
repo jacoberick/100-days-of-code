@@ -20,3 +20,10 @@
 **Thoughts:** I'm glad I finished the design of the app and I like how it looks. But tomorrow, I'm going to start a more simple day project to get used to React Hooks a bit more, and then return to finishing this app. I want to feel more confident before jumping into more advanced concepts. 
 
 **Link to work:** [React Calculator Repo](https://github.com/jacoberick/react-calculator)
+
+### Day 4: July 3, 2020 
+**Today's Progress**: I made a simple to do app using React Hooks.  
+
+**Thoughts:** This was a good project for me. It taught me more about React Hooks and I feel more confident. 
+
+**Link to work:** [React Calculator Repo](https://github.com/jacoberick/to-do-list)
