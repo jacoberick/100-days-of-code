@@ -27,3 +27,10 @@
 **Thoughts:** This was a good project for me. It taught me more about React Hooks and I feel more confident. 
 
 **Link to work:** [React Calculator Repo](https://github.com/jacoberick/to-do-list)
+
+### Day 5: July 4, 2020 
+**Today's Progress**: I made a US Flag using React and CSS. 
+
+**Thoughts:** This was a fun little project. It taught me more about how .map works, and when and how you should loop in React. 
+
+**Link to work:** [React Calculator Repo](https://github.com/jacoberick/us-flag-react)
