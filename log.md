@@ -34,3 +34,9 @@
 **Thoughts:** This was a fun little project. It taught me more about how .map works, and when and how you should loop in React. 
 
 **Link to work:** [US Flag](https://github.com/jacoberick/us-flag-react)
+
+### Day 6-7: July 5-6, 2020 
+**Today's Progress**: I went on a roadtrip and learned more about flexbox. 
+
+**Thoughts:** I really needed this time to learn about flexbox. I can't wait to be able to move things around the page just as I please. I'm going to practice these concepts tomorrow. 
+
