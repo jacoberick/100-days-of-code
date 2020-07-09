@@ -40,3 +40,17 @@
 
 **Thoughts:** I really needed this time to learn about flexbox. I can't wait to be able to move things around the page just as I please. I'm going to practice these concepts tomorrow. 
 
+### Day 8: July 7, 2020 
+**Today's Progress**: I made progress with flex-box and practiced its concepts with the online exercise (Flexbox Froggy), and by making custom navbars. 
+
+**Thoughts:** Flex-box is very important to placing components on a page. I feel a little more confident in coding now!
+
+**Link to work:** [Custom Flexbox Menus](https://twitter.com/jacobwhitedev/status/1280751806503694336?s=20)
+
+### Day 9: July 8, 2020 
+**Today's Progress**: I looked into designs for web developer portfolio pages. I began my own by writing the code for the header and the main quote on the page.  
+
+**Thoughts:** It's a bit daunting taking on a whole website, but I enjoy coming up with color palettes and applying them to my site. Lots of work to do. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
