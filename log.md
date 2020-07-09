@@ -41,9 +41,9 @@
 **Thoughts:** I really needed this time to learn about flexbox. I can't wait to be able to move things around the page just as I please. I'm going to practice these concepts tomorrow. 
 
 ### Day 8: July 7, 2020 
-**Today's Progress**: I made progress with flex-box and practiced its concepts with the online exercise (Flexbox Froggy), and by making custom navbars. 
+**Today's Progress**: I made progress with Flexbox and practiced its concepts with the online exercise (Flexbox Froggy), and by making custom navbars. 
 
-**Thoughts:** Flex-box is very important to placing components on a page. I feel a little more confident in coding now!
+**Thoughts:** Flexbox is very important to placing components on a page. I feel a little more confident in coding now!
 
 **Link to work:** [Custom Flexbox Menus](https://twitter.com/jacobwhitedev/status/1280751806503694336?s=20)
 
