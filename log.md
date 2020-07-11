@@ -54,3 +54,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 10-11: July 9-10, 2020 
+**Today's Progress**: I spent these two days focusing on the box model, and Flexbox. 
+
+**Thoughts:** This site it pretty simple so far, but it's helping me comprehend the basics better. I am shooting to have it finished by early next week. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
