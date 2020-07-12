@@ -61,3 +61,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 12: July 11, 2020 
+**Today's Progress**: Today I coded the bare bones for my 'About' section. 
+
+**Thoughts:** So far I'm on schedule to finish on time. There will be lots of work to do tomorrow, but I'm optimistic. The things that take me the most time are deciding on design aspects throughout the site. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
