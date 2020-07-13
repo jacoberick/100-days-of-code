@@ -68,3 +68,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 13: July 12, 2020 
+**Today's Progress**: I styled the About section and updated the styling of a few other elements on the page to be more sleek.  
+
+**Thoughts:** I like what I've made so far! My next big challenge will be styling the sticky header. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
