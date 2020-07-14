@@ -75,3 +75,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+
+### Day 14: July 13, 2020 
+**Today's Progress**: I had a bit of a setback today trying to get React projects to deploy on GitHub pages. I successfully deployed a simple project, but I expect more hiccups for the more complicated ones. I was trying to deploy these projects so that I could link to them from my portfolio site. 
+
+**Thoughts:** I think I just need to familiarize myself more with the way React, uh, reacts...
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
