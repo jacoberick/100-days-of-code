@@ -82,3 +82,11 @@
 **Thoughts:** I think I just need to familiarize myself more with the way React, uh, reacts...
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
+### Day 14: July 13, 2020 
+**Today's Progress**: I added the rest of the main sections of my portfolio site! 
+
+**Thoughts:** Everything went pretty smooth today. I'm a little nervous about dealing with adjusting the site along with the size of the viewport, but I think I can handle it. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
