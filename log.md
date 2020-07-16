@@ -83,10 +83,18 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
-### Day 14: July 13, 2020 
+### Day 15: July 14, 2020 
 **Today's Progress**: I added the rest of the main sections of my portfolio site! 
 
 **Thoughts:** Everything went pretty smooth today. I'm a little nervous about dealing with adjusting the site along with the size of the viewport, but I think I can handle it. 
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
+### Day 16: July 15, 2020 
+**Today's Progress**: Today I learned more about margin and padding and how to apply it in the real world. 
+
+**Thoughts:** Even though they are basic concepts, they can be diffucult for me to master. But I feel even more confident now, and am one step closer to using them to their full potential. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
 
