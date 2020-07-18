@@ -98,3 +98,17 @@
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
 
+### Day 17: July 16, 2020 
+**Today's Progress**: I refactored my code to be more dynamic using .map on an array that builds out the projects displayed in my portfolio. 
+
+**Thoughts:** It took a lot of reading to learn how to make it work in React, but it was very satisfying seeing the proper results generated from the array. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
+### Day 18: July 17, 2020 
+**Today's Progress**: Today I finished up the nav to jump to the proper section using a global function. This function includes the down arrow in the main page. 
+
+**Thoughts:** I'm feeling more confident figuring things out when I don't know them. For example, I can make better educated guesses about syntax that I'm not sure of. Which is always a good feeling when I'm close, or get it right the first time.
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
