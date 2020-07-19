@@ -112,3 +112,9 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+
+### Day 19: July 18, 2020 
+**Today's Progress**: I fixed a few bugs on my portfolio site and looked into different styles and methods of sticky headers that I will be implementing tomorrow. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
