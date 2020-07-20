@@ -118,3 +118,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 20: July 19, 2020 
+**Today's Progress**: I started and finished making my header transitions on scroll.
+
+**Thoughts:** These transitions really bring the whole page together. I'm proud of my work.
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
