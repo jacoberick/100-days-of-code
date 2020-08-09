@@ -125,3 +125,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 21: August 9, 2020 
+**Today's Progress**: I've been working with media queries the past few days to make my portfolio site responsive to large screens, small screens, and everything inbetween. 
+
+**Thoughts:** I never realized just how much work went into making a site look good on every platform. But once you have all your bases covered, it's very satisfying. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
