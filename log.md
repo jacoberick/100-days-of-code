@@ -132,3 +132,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 22: August 10, 2020 
+**Today's Progress**: Today I built out my mobile navigation. 
+
+**Thoughts:** It was a good feeling seeing all my progress at the end of the day. I'm getting very close to finishing the site! I've done my best to stretch my abilities and do the most with this project, even though it's taken a litte longer than I first anticipated to finish, I think it's worth it.  
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
