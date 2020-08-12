@@ -139,3 +139,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 23: August 11, 2020 
+**Today's Progress**: Today I cleaned up yesterdays code and added a new feature that closes the mobile navigation when a click is registered outside of the div. 
+
+**Thoughts:** I like how my code looks a lot better now. Looking at it again this morning, I realized I could write it more proficiently and cleaner. There is still one more bug I need to fix for this nav to be perfect, and I think I just have a misunderstanding in syntax that I will correct tomorrow.  
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
