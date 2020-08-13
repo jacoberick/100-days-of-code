@@ -146,3 +146,10 @@
 
 **Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
 
+### Day 23: August 12, 2020 
+**Today's Progress**: I worked on fixing a few bugs with the nav today. There were three that I identified today and I only solved one. 
+
+**Thoughts:** Today was a bit frustrating. I really wanted to solve all three of the bugs but I just kept running into dead ends. It's sometimes hard for me to put down the computer and take a break, but as much as I don't want to, I think it will benefit me more to have some break time between now and tomorrow morning. 
+
+**Link to work:** [Jacob White's Portfolio Site](https://github.com/jacoberick/jacob-white-portfolio-site)
+
